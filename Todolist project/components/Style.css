@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    background-color: rgb(7, 7, 56);
+    width: 100%;
+    height: 100%;
+}
+.main-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+}
+figcaption{
+    color: aliceblue;
+}
+input{
+    width: 325px;
+    height: 40px
+}
+.addItems i{
+    color: white;
+
+
+}
